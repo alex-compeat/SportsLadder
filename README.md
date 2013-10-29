@@ -1,4 +1,4 @@
 SportsLadder
 ============
 
-The most awesomist sports ladder ever!
+This repo contains the source for SportsLadder - the most awesomist sports ladder ever!
